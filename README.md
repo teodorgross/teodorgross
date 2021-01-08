@@ -4,7 +4,7 @@ Developer & Pentester, 21 <br> <br> <a href="https://twitter.com/Teodor_Cucu"><i
 
 ---------------------
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teodorcucu&repo=Macos-AT-DNS-Blocker)](https://github.com/teodorcucu/Macos-AT-DNS-Blocker)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teodorcucu&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/teodorcucu/Hackintosh-Skilake-GA-H110M-S2HP-EFI)
 <!--
 
 **teodorcucu/teodorcucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
