@@ -1,4 +1,4 @@
-Developer & Pentester, 22 <br> <br><a href="https://gist.github.com/teodorcucu"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-22-brightgreen"><img src="https://img.shields.io/badge/age-22-brightgreen" alt=""></a> <a href="https://keys.openpgp.org/search?q=561E8F7473F899A0B1BD9B55655D4883FA2D2B5C"><img src="https://img.shields.io/badge/pgp-561E8F7473F899A0B1BD9B55655D4883FA2D2B5C-blue"></a>
+Developer & Pentester, 22 <br> <br><a href="https://gist.github.com/teodorcucu"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-22-brightgreen"><img src="https://img.shields.io/badge/age-22-brightgreen" alt=""></a> <a href="https://keys.openpgp.org/search?q=612F83D3313454E9ED82A6954493D3ABE706F83E"><img src="https://img.shields.io/badge/pgp-612F 83D3 3134 54E9 ED82  A695 4493 D3AB E706 F83E-blue"></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teodorcucu&show_icons=true&theme=white)
 
