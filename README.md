@@ -3,7 +3,7 @@ Developer & Pentester, 22 <br> <br><a href="https://gist.github.com/teodorcucu">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teodorcucu&show_icons=true&theme=white)
 
 ---------------------
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Macos-AT-DNS-Blocker)](https://github.com/[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r/Hackintosh-Skilake-GA-H110M-S2HP-EFI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r/Hackintosh-Skilake-GA-H110M-S2HP-EFI)
 /Macos-AT-DNS-Blocker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r/Hackintosh-Skilake-GA-H110M-S2HP-EFI)
 <!--
