@@ -1,6 +1,6 @@
 Developer & Pentester, 22 <br> <br><a href="https://gist.github.com/teodorcucu"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-22-brightgreen"><img src="https://img.shields.io/badge/age-22-brightgreen" alt=""></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teodorcucu&show_icons=true&theme=white)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-real-t30d0r&show_icons=true&theme=white)
 
 ---------------------
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r//Macos-AT-DNS-Blocker)
