@@ -3,7 +3,7 @@ Developer & Pentester, 23 <br> <br><a href="https://gist.github.com/the-real-t30
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-real-t30d0r&show_icons=true&theme=white)
 
 ---------------------
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r//Macos-AT-DNS-Blocker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=MacOS-DNS-ADD-Blocker)](https://github.com/the-real-t30d0r//Macos-AT-DNS-Blocker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=the-real-t30d0r&repo=Hackintosh-Skilake-GA-H110M-S2HP-EFI)](https://github.com/the-real-t30d0r/Hackintosh-Skilake-GA-H110M-S2HP-EFI)
 <!--
 
