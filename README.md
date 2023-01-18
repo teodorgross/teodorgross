@@ -1,8 +1,5 @@
 Developer & Pentester, 23 <br> <br><a href="https://gist.github.com/the-real-t30d0r"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-23-brightgreen"><img src="https://img.shields.io/badge/age-23-brightgreen" alt=""></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-real-t30d0r&show_icons=true&theme=white)
-
-
 
 <!--
 
