@@ -1,4 +1,4 @@
-Developer & Pentester, 24 <br> <br><a href="https://gist.github.com/the-real-t30d0r"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-24-brightgreen"><img src="https://img.shields.io/badge/age-23-brightgreen" alt=""></a>
+Developer & Pentester, 24 <br> <br><a href="https://gist.github.com/the-real-t30d0r"><img src="https://img.shields.io/badge/GistGithub-grey" alt=""></a> <a href="https://img.shields.io/badge/age-24-brightgreen"><img src="https://img.shields.io/badge/age-24-brightgreen" alt=""></a>
 
 
 <!--
