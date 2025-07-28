@@ -4,9 +4,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=teodorgross.teodorgross&left_color=black&right_color=00FF41)
 
-![Age](https://img.shields.io/badge/age-25-00FF41?style=flat-square) ![Status](https://img.shields.io/badge/status-coding_the_matrix-red?style=flat-square) ![Coffee](https://img.shields.io/badge/fuel-caffeine-8B4513?style=flat-square) ![Location](https://img.shields.io/badge/base-germany-black?style=flat-square)
+![Age](https://img.shields.io/badge/age-25-00FF41?style=flat-square) ![Coffee](https://img.shields.io/badge/fuel-caffeine-8B4513?style=flat-square) ![Location](https://img.shields.io/badge/base-germany-black?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) 
 
