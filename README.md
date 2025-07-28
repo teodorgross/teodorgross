@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@teodorgross@mastodon.decentral.icu) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@teodorgross.eu)
+[![Twitter](https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@teodorgross@mastodon.decentral.icu) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@teodorgross.eu) [![Matrix Chat](https://img.shields.io/badge/Matrix-1DA1F2?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@teodorgross:matrix.decentral.icu)
 
 ---
 
