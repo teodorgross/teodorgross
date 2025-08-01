@@ -13,17 +13,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MacOS](https://img.shields.io/badge/MacOS-FCC624?style=flat-square&logo=apple&logoColor=black) 
 </div>
 
----
-## 📊 GitHub Matrix
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=teodorgross&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" alt="Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=teodorgross&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak" />
-
-<img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodorgross&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&card_width=800" alt="Languages" />
-
-</div>
 
 ---
 
