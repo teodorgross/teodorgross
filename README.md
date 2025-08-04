@@ -13,13 +13,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MacOS](https://img.shields.io/badge/MacOS-FCC624?style=flat-square&logo=apple&logoColor=black) 
 </div>
 
-
----
-
-<div align="center">
-
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@teodorgross.eu) [![Matrix Chat](https://img.shields.io/badge/Matrix-1DA1F2?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@teodorgross:matrix.decentral.icu)
-
 ---
 
 
